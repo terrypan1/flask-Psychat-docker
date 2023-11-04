@@ -35,7 +35,7 @@
 
 
 # 遇到導包失敗
-deactivate
-Remove-Item -Recurse -Force C:\Users\User\Desktop\flask\flask_model\venv
-python -m venv venv 
-重來
+- deactivate
+- Remove-Item -Recurse -Force C:\Users\User\Desktop\flask\flask_model\venv
+- python -m venv venv 
+- 重來
